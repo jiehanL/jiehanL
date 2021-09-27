@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jiehan Liu, student at the MA program of Computational Social Science,University of Chicago 
+- Hi, I’m @Jiehan Liu, student at the MA program of Computational Social Science,University of Chicago 
 - My research interests cover authoritarian politics and political communication, with methodological focus on computational methods
 - I’m currently working at exploring the dynamics between information manipulation on digital media and building/reinforcing state/party legitimacy
 - Please feel free to reach me at jiehan@uchicago.edu
